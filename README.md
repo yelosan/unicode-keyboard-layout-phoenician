@@ -1,6 +1,7 @@
 # Phoenician Keyboard Layout (PHNKL)
 
 The **Phoenician Keyboard Layout** or **PHNKL** is the first Unicode-compliant keyboard layout for the Phoenician Unicode block. Its main feature is the incorporation of the characters commonly used in the following scripts:
+
   * Ammonite
   * Early Aramaic
   * Ancient Hebrew dialects
@@ -20,15 +21,15 @@ There are also some exceptions. While the Samaritan script is similar and one of
 
 Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was the name chosen by the Unicode Consortium to refer to this Unicode block. As this keyboard project is claiming to be a Unicode-compliant layout, using the name assigned by the Unicode is part of it. If in the future they change the block name to the latter, then this project will implement the same.
 
-As of: [Unicode 8.0 (2015-06-17)].
-Unicode block: [U+10900 to U+1091F]
-Unicode block name: Phoenician
-First released: 2015-07-20
-Latest version: 1.0.0
-
-Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/][0]
-Project contact: JC John "Yuki" Sese Cuneta
-Git: [https://bitbucket.org/paninap/phnkl][1]
+### Project info
+  * As of: [Unicode 8.0 (2015-06-17)]
+  * Unicode block: [U+10900 to U+1091F]
+  * Unicode block name: Phoenician
+  * First release: 2015-07
+  * Latest version: 1.0.0
+  * Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/][0]
+  * Git: [https://bitbucket.org/paninap/phnkl][1]
+  * Project contact: JC John "Yuki" Sese Cuneta
 
 _A project of [Paninap Services]._
 
@@ -40,17 +41,17 @@ _A project of [Paninap Services]._
 ## OS Compatibility
   * Supported:
     1. All GNU/Linux distribution and flavour with the latest XKB update.
-    2. Microsoft® Windows 98 up to Windows 7
+    1. Microsoft® Windows 98 up to Windows 7
   * Not yet supported:
     * Microsoft Windows 8 and Windows 10 - the tool provided by Microsoft for developing keyboard layout still remains incompatible.
     * Apple OS - I do not have a Macintosh to study and convert the project into.
     * ChromeOS - no plans at the moment
   * Will never be supported:
     * Android, iOS, and any other mobile/tablet units
-        1. Unicode-compliant keyboard layouts relies on Unicode-compliant fonts. Most fonts that comes with mobile phones/tablets only have the ASCII range and a select few Unicode characters.
-        2. Even if you install a compatible font, if your SMS recipient doesn't have a compatible font, it will not show correctly.
-        3. SMS encoding differs from phone-to-phone and network-to-network, which usually leads to messed-up messages if it is beyond the ASCII range.
-        4. I would advice looking for an app that provides a temporary typing space so you can copy and paste it in your local documents or browser. But again, it will never work correctly because of the 3 points raised above.
+        1. Unicode-compliant keyboard layouts rely on Unicode-compliant fonts. Most fonts that comes with mobile phones/tablets only have the ASCII range and a select few Unicode characters (other than the Emoji Unicode block).
+        1. Even if you install a compatible font, if your SMS recipient doesn't have a compatible font, it will not show correctly.
+        1. SMS encoding differs from phone-to-phone and network-to-network, which usually leads to messed-up messages if it is beyond the ASCII range.
+        1. I would advice looking for an app that provides a temporary typing space so you can copy and paste it in your local documents or browser. But again, it will never work correctly because of the 3 points raised above.
 
 
 ## Instructions
