@@ -4,29 +4,30 @@ The **Phoenician Keyboard Layout** or **PHNKL** is the first Unicode-compliant k
 
   * Ammonite
   * Early Aramaic
-  * Ancient Hebrew dialects
-    * Palæo-Hebrew
-    * Siloam Hebrew
-    * Hebrew seals
+  * Old Hebrew dialects
+  * Palæo-Hebrew (1000 B.C.E.)
+  * Siloam Hebrew
+  * Hebrew seals
   * Moabite
   * Phoenician
-    * Archaic Phoenician
-    * Late Phoenician cursive
-    * Phoenician papyri
+  * Archaic Phoenician
+  * Late Phoenician cursive
+  * Phoenician papyri
   * Punic
 
-In addition to the above, the Phoenician Unicode block is also compatible with the much earlier script than Palæo-Hebrew/Phoenician which is _Ancient Hebrew (a.k.a. Proto-Canaanite; Early Hebrew; Proto-Sinaitic)_, a pictograph script. But this might be temporary as the Ancient Hebrew script is still being deciphered and might have more glyphs, the Unicode Consortium in the future may assign a separate block for this.
+In addition to the above, the Phoenician Unicode block is currently compatible with a much earlier script than Palæo-Hebrew/Phoenician which is _Ancient Hebrew (a.k.a. Proto-Canaanite; Early Hebrew; Proto-Sinaitic)_, a pictograph script that was in used from 6000 B.C.E. to 1700 B.C.E. As the Ancient Hebrew script is still being deciphered and might have more glyphs the Unicode Consortium in the future may assign a separate block for this.
 
 There are also some exceptions. While the Samaritan script is similar and one of the closely related and surviving writing system to the Palæo-Hebrew/Phoenician family, the Unicode consortium assigned a separate block ([U+0800 to U+083F]) for the Samaritan script. As such, do not use the Phoenician Unicode block when creating a font for or typing in Samaritan.
 
 Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was the name chosen by the Unicode Consortium to refer to this Unicode block. As this keyboard project is claiming to be a Unicode-compliant layout, using the name assigned by the Unicode is part of it. If in the future they change the block name to the latter, then this project will implement the same.
 
+
 ### Project info
-  * As of: [Unicode 8.0 (2015-06-17)]
+  * Based on: [Unicode 8.0 (2015-06-17)]
   * Unicode block: [U+10900 to U+1091F]
-  * Unicode block name: Phoenician
-  * First release: 2015-07
+  * Unicode name: Phoenician
   * Latest version: 1.0.0
+  * First release: 2015-07
   * Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/][0]
   * Git: [https://bitbucket.org/paninap/phnkl][1]
   * Project contact: JC John "Yuki" Sese Cuneta
@@ -65,8 +66,10 @@ _A project of [Paninap Services]._
 
 
 ## Keyboard Layout Images
-### Neo-Paleo
-![Neo-Paleo Layout Image]
+### Neo-Paleo Layout
+![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font]
+![Neo-Paleo Layout in Noto Sans Phoenician font]
+![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font]
 
 
 
@@ -79,4 +82,6 @@ _A project of [Paninap Services]._
 [Neo-Paleo Layout]: http://loveandtruth.net/neopaleo.html "Neo-Paleo Transliteration Scheme for a Neo-Paleo Hebrew Encoding Standard"
 [GNU/Linux]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Linux/ "GNU/Linux Instructions"
 [Microsoft Windows]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Windows/ "Microsoft Windows Guide"
-[Neo-Paleo Layout Image]: https://some_image_here
+[Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font]: /images/PHN-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png
+[Neo-Paleo Layout in Noto Sans Phoenician font]: /images/PHN-Neo_in_Noto_Sans_Phoenician_font.png
+[Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font]: /images/PHN-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png
