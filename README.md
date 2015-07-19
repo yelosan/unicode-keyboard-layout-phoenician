@@ -1,5 +1,4 @@
 # Phoenician Keyboard Layout (PHNKL)
-
 The **Phoenician Keyboard Layout** or **PHNKL** is the first Unicode-compliant keyboard layout for the Phoenician Unicode block. Its main feature is the incorporation of the characters commonly used in the following scripts:
 
   * Ammonite
@@ -21,7 +20,6 @@ There are also some exceptions. While the Samaritan script is similar and one of
 
 Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was the name chosen by the Unicode Consortium to refer to this Unicode block. As this keyboard project is claiming to be a Unicode-compliant layout, using the name assigned by the Unicode is part of it. If in the future they change the block name to the latter, then this project will implement the same.
 
-
 ### Project info
   * Based on: [Unicode 8.0 (2015-06-17)]
   * Unicode block: [U+10900 to U+1091F]
@@ -34,6 +32,8 @@ Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was 
 
 _A project of [Paninap Services]._
 
+## Fonts
+To see the glyphs that you are typing, you will need a Unicode-compliant (highly advisable) or mixed-Unicode (not advisable) set of fonts. For more information and download links, visit our [wiki here](https://bitbucket.org/paninap/phnkl/wiki/Fonts "Wiki:Fonts").
 
 ## OS Compatibility
   * Supported:
@@ -51,18 +51,21 @@ _A project of [Paninap Services]._
         1. I would advice looking for an app that provides a temporary typing space so you can copy and paste it in your local documents or browser. But again, it will never work correctly because of the 3 points raised above.
 
 
-## Instructions
-  * [GNU/Linux]
-  * [Microsoft Windows]
-
-
 ## License
   * Content license: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
   * Code license: [Apache 2.0](/LICENSE.txt?raw=true "LICENSE")
 
-
 ## Keyboard Layout Images
 ### [Neo-Paleo Layout]
+There were some keys that were left unassigned. In this, I took literary freedom and assigned a value. These are:
+
+  * Y = yod; so we have Y and I for yod/iod
+  * U = uau; so we have U and V for uau/vav
+  * F = pe; so we have F and P for pe
+  * K = kaf; so we have K and C for kaf/caf
+
+If you would like to master the pure Neo-Paleo Layout, just remember not to use the keys Y; U; F; and K. These were only added in the keyboard layout to help in transitioning to the Neo-Paleo Layout (and eliminate the chance of getting a "missing key" bug report).
+
 #### Neo-Paleo layout in Ancient Hebrew 6000-1700 BCE font
 ![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font](/images/PHN-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png?raw=true "Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font")
 
@@ -72,14 +75,12 @@ _A project of [Paninap Services]._
 #### Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font
 ![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font](/images/PHN-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png?raw=true "Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font")
 
-
-
 ## Attributions
 ### Blank Keyboard Layout
 By KB_United_States-NoAltGr.svg: [w:en:user:Deadcode]derivative work: DaemonDice (KB_United_States-NoAltGr.svg) [GFDL](http://www.gnu.org/copyleft/fdl.html), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABlank_BRSB_Keyboard_Layout.svg)
 
 ### [Neo-Paleo Layout]
-This site was shown to me by brother [Ted Walther](https://www.facebook.com/tederific ""), I am very grateful, blessings to you from 𐤉𐤄𐤅𐤄 (Yahuah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahusha).
+This site was shown to me by brother [Ted Walther](https://www.facebook.com/tederific "Ted Walther"), I am very grateful, blessings to you from 𐤉𐤄𐤅𐤄 (Yahuah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahusha).
 
 ### To all the followers of Alahim
 This Unicode-compliant keyboard layout is for you. I hope it will help in spreading the Besorah of Yahusha and in learning the original Hebrew language.
@@ -87,12 +88,8 @@ This Unicode-compliant keyboard layout is for you. I hope it will help in spread
 ### To 𐤉𐤄𐤅𐤄 (Yahuah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahusha)
 Thank you for the strength and support. You deserve all the glory, honour, praise, and worship, now and forevermore. AMEIN! 𐤄𐤋𐤋𐤅𐤉𐤄 (HalleluYAH)
 
-
-
 [U+0800 to U+083F]: http://www.unicode.org/charts/PDF/U0800.pdf "Official Unicode Consortium code chart for Samaritan (PDF)"
 [Unicode 8.0 (2015-06-17)]: http://blog.unicode.org/2015/06/announcing-unicode-standard-version-80.html "Announcing The Unicode® Standard, Version 8.0"
 [U+10900 to U+1091F]: http://www.unicode.org/charts/PDF/U10900.pdf "Official Unicode Consortium code chart for Phoenician (PDF)"
 [Paninap Services]: https://bitbucket.org/paninap "Paninap Services Git"
 [Neo-Paleo Layout]: http://loveandtruth.net/neopaleo.html "Neo-Paleo Transliteration Scheme for a Neo-Paleo Hebrew Encoding Standard"
-[GNU/Linux]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Linux/ "GNU/Linux Instructions"
-[Microsoft Windows]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Windows/ "Microsoft Windows Guide"
