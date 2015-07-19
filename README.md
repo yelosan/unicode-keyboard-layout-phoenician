@@ -28,15 +28,11 @@ Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was 
   * Unicode name: Phoenician
   * Latest version: 1.0.0
   * First release: 2015-07
-  * Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/][0]
-  * Git: [https://bitbucket.org/paninap/phnkl][1]
+  * Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/](https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/ "Official PHNKL Page")
+  * Git: [https://bitbucket.org/paninap/phnkl](https://bitbucket.org/paninap/phnkl "BitBucket Git Source")
   * Project contact: JC John "Yuki" Sese Cuneta
 
 _A project of [Paninap Services]._
-
-
-## Layouts
-  * [Neo-Paleo Layout]
 
 
 ## OS Compatibility
@@ -62,26 +58,41 @@ _A project of [Paninap Services]._
 
 ## License
   * Content license: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
-  * Code license: Apache 2.0
+  * Code license: [Apache 2.0](/LICENSE.txt?raw=true "LICENSE")
 
 
 ## Keyboard Layout Images
-### Neo-Paleo Layout
-![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font]
-![Neo-Paleo Layout in Noto Sans Phoenician font]
-![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font]
+### [Neo-Paleo Layout]
+#### Neo-Paleo layout in Ancient Hebrew 6000-1700 BCE font
+![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font](/images/PHN-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png?raw=true "Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font")
+
+#### Neo-Paleo Layout in Noto Sans Phoenician font
+![Neo-Paleo Layout in Noto Sans Phoenician font](/images/PHN-Neo_in_Noto_Sans_Phoenician_font.png?raw=true "Neo-Paleo Layout in Noto Sans Phoenician font")
+
+#### Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font
+![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font](/images/PHN-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png?raw=true "Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font")
+
+
+
+## Attributions
+### Blank Keyboard Layout
+By KB_United_States-NoAltGr.svg: [w:en:user:Deadcode]derivative work: DaemonDice (KB_United_States-NoAltGr.svg) [GFDL](http://www.gnu.org/copyleft/fdl.html), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABlank_BRSB_Keyboard_Layout.svg)
+
+### [Neo-Paleo Layout]
+This site was shown to me by brother [Ted Walther](https://www.facebook.com/tederific ""), I am very grateful, blessings to you from 𐤉𐤄𐤅𐤄 (Yahuah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahusha).
+
+### To all the followers of Alahim
+This Unicode-compliant keyboard layout is for you. I hope it will help in spreading the Besorah of Yahusha and in learning the original Hebrew language.
+
+### To 𐤉𐤄𐤅𐤄 (Yahuah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahusha)
+Thank you for the strength and support. You deserve all the glory, honour, praise, and worship, now and forevermore. AMEIN! 𐤄𐤋𐤋𐤅𐤉𐤄 (HalleluYAH)
 
 
 
 [U+0800 to U+083F]: http://www.unicode.org/charts/PDF/U0800.pdf "Official Unicode Consortium code chart for Samaritan (PDF)"
 [Unicode 8.0 (2015-06-17)]: http://blog.unicode.org/2015/06/announcing-unicode-standard-version-80.html "Announcing The Unicode® Standard, Version 8.0"
 [U+10900 to U+1091F]: http://www.unicode.org/charts/PDF/U10900.pdf "Official Unicode Consortium code chart for Phoenician (PDF)"
-[0]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/ "Official PHNKL Page"
-[1]: https://bitbucket.org/paninap/phnkl "BitBucket Git Source"
 [Paninap Services]: https://bitbucket.org/paninap "Paninap Services Git"
 [Neo-Paleo Layout]: http://loveandtruth.net/neopaleo.html "Neo-Paleo Transliteration Scheme for a Neo-Paleo Hebrew Encoding Standard"
 [GNU/Linux]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Linux/ "GNU/Linux Instructions"
 [Microsoft Windows]: https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout-Windows/ "Microsoft Windows Guide"
-[Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font]: /images/PHN-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png
-[Neo-Paleo Layout in Noto Sans Phoenician font]: /images/PHN-Neo_in_Noto_Sans_Phoenician_font.png
-[Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font]: /images/PHN-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png
