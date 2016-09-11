@@ -65,13 +65,13 @@ Examples:
 Without these invisible markers, in the first example, the "C++" will become "++C"; in the second example, the exclamation point "!" will be on the right side not left. Also, you would have to cheat by first typing "C++" or the exclamation point "!" before typing Hebrew just to achieve the correct format (which is not advisable as far as semantics, relationships, and typing-flow are concerned). See http://www.w3.org/International/articles/inline-bidi-markup/.
 
 #### Neo-Paleo layout in Ancient Hebrew 6000-1700 BCE font
-![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font](https://bitbucket.org/repo/Kd9xpk/images/1830288730-PHN-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png "Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font")
+![Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font](https://bitbucket.org/repo/Kd9xpk/images/1830288730-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png "Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font")
 
 #### Neo-Paleo Layout in Noto Sans Phoenician font
-![Neo-Paleo Layout in Noto Sans Phoenician font](https://bitbucket.org/repo/Kd9xpk/images/105382865-PHN-Neo_in_Noto_Sans_Phoenician_font.png "Neo-Paleo Layout in Noto Sans Phoenician font")
+![Neo-Paleo Layout in Noto Sans Phoenician font](https://bitbucket.org/repo/Kd9xpk/images/105382865-PHNX-Neo_in_Noto_Sans_Phoenician_font.png "Neo-Paleo Layout in Noto Sans Phoenician font")
 
 #### Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font
-![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font](https://bitbucket.org/repo/Kd9xpk/images/64072058-PHN-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png "Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font")
+![Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font](https://bitbucket.org/repo/Kd9xpk/images/64072058-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png "Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font")
 
 ## Attributions
 ### To 𐤉𐤄𐤅𐤄 (Yahuwah) and his son 𐤉𐤄𐤅𐤔𐤏 (Yahushua)
