@@ -33,12 +33,12 @@ Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was 
 _A project of [Paninap Services]._
 
 ## Fonts
-To see the glyphs that you are typing, you will need a Unicode-compliant or mixed-Unicode set of fonts. For more information and download links, visit our [wiki here](https://bitbucket.org/paninap/pukbl/wiki/Fonts "Fonts").
+To see the glyphs that you are typing, you will need a Unicode-compliant or mixed-Unicode set of fonts. For more information and download links, visit our [wiki here](https://bitbucket.org/paninap/phnx-ukl/wiki/Fonts "Fonts").
 
 ## License
   * Content license: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
   * Code license:
-      * Copyright © 2010, 2015 JC John Sese Cuneta; [The MIT License](https://bitbucket.org/paninap/pukbl/wiki/License "LICENSE")
+      * Copyright © 2010, 2015 JC John Sese Cuneta; [The MIT License](https://bitbucket.org/paninap/phnx-ukl/wiki/License "LICENSE")
 
 ## Keyboard Layout Images
 ### [Neo-Paleo Layout]
