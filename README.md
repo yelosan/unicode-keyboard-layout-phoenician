@@ -26,7 +26,7 @@ Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was 
   * Unicode name: Phoenician
   * Latest version: 1.0.0
   * First release: 2015-07
-  * Official website: [https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/](https://techmagus.ninja/Paleo-Hebrew-Phoenician-Keyboard-Layout/ "Official PHNKL Page")
+  * Official website: [https://techmagus.icu/Paleo-Hebrew-Phoenician-Keyboard-Layout/](https://techmagus.icu/Paleo-Hebrew-Phoenician-Keyboard-Layout/ "Official PHNKL Page")
   * Git: [https://bitbucket.org/paninap/phnx-ukl](https://bitbucket.org/paninap/phnx-ukl "BitBucket Git Source")
   * Project contact: Yahanan 'Yuki' Xie
 
@@ -36,9 +36,10 @@ _A project of [Paninap Services]._
 To see the glyphs that you are typing, you will need a Unicode-compliant or mixed-Unicode set of fonts. For more information and download links, visit our [wiki here](https://bitbucket.org/paninap/phnx-ukl/wiki/Fonts "Fonts").
 
 ## License
-  * Content license: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
-  * Code license:
-      * Copyright © 2010, 2015 JC John Sese Cuneta; [The MIT License](https://bitbucket.org/paninap/phnx-ukl/wiki/License "LICENSE")
+  * Content License: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
+  * Code Copyright and License:
+      * Copyright © 2015 JC John Sese Cuneta
+      * Copyleft 🄯 2015 JC John Sese Cuneta. [The MIT License](https://bitbucket.org/paninap/phnx-ukl/wiki/License "LICENSE")
 
 ## Keyboard Layout Images
 ### [Neo-Paleo Layout]
